@@ -1,5 +1,4 @@
-
-# mocha-matrix
+# Mocha matrix
 
   Mocha matrix test reporter for the browser.
 
