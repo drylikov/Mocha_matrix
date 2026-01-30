@@ -26,4 +26,3 @@ mocha.setup({ ui: 'bdd', reporter: require('visionmedia-mocha-matrix') })
 ```js
 mocha.setup({ ui: 'bdd', reporter: Matrix })
 ```
-
