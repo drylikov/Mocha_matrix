@@ -1,0 +1,17 @@
+
+{
+  "name": "mocha-matrix",
+  "repo": "drylikov/mocha-matrix",
+  "description": "Mocha matrix test reporter for the browser",
+  "version": "0.0.1",
+  "keywords": ["mocha", "test", "reporter"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "mocha-matrix.css"
+  ]
+}
